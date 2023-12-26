@@ -1,0 +1,72 @@
+/*
+    DEFAULT BG: #63bf7c
+*/
+
+/* Style for the container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 73vh; /* Set height to 100% of the viewport height */
+}
+
+/* Style for each info box */
+.info-box {
+    width: 20%; /* Adjust the width as needed */
+    padding: 20px;
+    border: 1px solid black;
+    margin: 0 10px;
+    text-align: center;
+    background-color: white;
+}
+
+body {
+    background: lightgrey;
+    font-family: monospace;
+}
+
+#logowide {
+    width: 1000px;
+    height: 215px;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+/* width="1000" height="215" */
+
+/* MENU LINK STUFF */
+
+#menulink {
+    font-size: 35px;
+}
+
+#menulink:link {
+    color: black;
+}
+
+#menulink:hover {
+    color: red;
+    font-size: 45px;
+}
+
+#menulink:visited {
+    color: black;
+}
+
+#menulink:active {
+    color: green;
+}
+
+/*-----------------*/
+
+table.basic-table {
+    margin: 0px;
+    padding: 0px;
+    width: 650px;
+    border-style: solid;
+    border-width: 0px 1px 1px 1px;
+    border-color: black;
+}
