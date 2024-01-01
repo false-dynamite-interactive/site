@@ -1,5 +1,6 @@
 /*
     DEFAULT BG: #63bf7c
+    XMAS BG: lightgrey
 */
 
 /* Style for the container */
@@ -21,13 +22,14 @@
 }
 
 body {
-    background: lightgrey;
+    background: #63bf7c;
     font-family: monospace;
 }
 
 #logowide {
     width: 1000px;
     height: 215px;
+    content: url("https://false-dynamite-interactive.github.io/site/data/fdi_wide.png");
 }
 
 hr {
@@ -48,7 +50,7 @@ hr {
 }
 
 #menulink:hover {
-    color: red;
+    color: orange;
     font-size: 45px;
 }
 
@@ -57,7 +59,7 @@ hr {
 }
 
 #menulink:active {
-    color: green;
+    color: yellow;
 }
 
 /*-----------------*/
