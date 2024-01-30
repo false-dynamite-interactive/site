@@ -1,0 +1,63 @@
+/* HEADER SHIT */
+
+#banner
+{
+    border: 2px solid black;
+    border-bottom: none;
+    width: 898px;
+    height: 130px;
+}
+
+#header-nav
+{
+    width: 898px;
+    height: 40px;
+    border: 2px solid black;
+    background-color: red;
+    text-align: center;
+}
+
+#nav-txt
+{
+    margin: 5px;
+}
+
+/* MENU LINKS */
+
+.menulnk
+{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+.menulnk:hover
+{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.menulnk:active
+{
+    color: orange;
+    text-decoration: underline;
+}
+
+/* MAIN SHIT? */
+
+body
+{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+article
+{
+    background-color: lightgray;
+    border: 2px solid black;
+    width: 898px;
+    text-align: center;
+}
+
+hr
+{
+    width: 898px;
+}
