@@ -7,7 +7,7 @@ function NextPerson()
     
     if (num === 2)
     {
-        document.getElementById("memPfp").src = "data/devpfp/fdi_nick.png";
+        document.getElementById("memPfp").src = "data/devpfp/fdi_nick_new.png";
         document.getElementById("memName").innerHTML = '<p>Nick Armes</p>';
         document.getElementById("memPos").innerHTML = '<p>Co-Founder, COO, Developer</p>';
     }
