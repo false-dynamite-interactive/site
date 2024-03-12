@@ -9,7 +9,7 @@ function NextPerson()
     {
         document.getElementById("memPfp").src = "data/devpfp/fdi_nick_new.png";
         document.getElementById("memName").innerHTML = '<p>Nick Armes</p>';
-        document.getElementById("memPos").innerHTML = '<p>Co-Founder, COO, Developer</p>';
+        document.getElementById("memPos").innerHTML = '<p>Co-Founder, COO, Dev, Writer</p>';
     }
     else if (num === 3)
     {
