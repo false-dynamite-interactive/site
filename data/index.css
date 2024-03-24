@@ -1,4 +1,10 @@
-/* HEADER STUFF */
+@font-face
+{
+    font-family: comicSans;
+    src: url('COMIC.TTF');
+}
+
+/* HEADER SHIT */
 
 #banner
 {
@@ -42,11 +48,11 @@
     text-decoration: underline;
 }
 
-/* MAIN STUFF? */
+/* MAIN SHIT? */
 
 body
 {
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: comicSans;
 }
 
 article
